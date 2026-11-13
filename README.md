@@ -14,12 +14,6 @@ This repository contains my Data Structures and Algorithms (DSA) practice soluti
 - Analyze time and space complexity.
 - Prepare for CA examinations and technical interviews.
 
-## 📚 Problems Solved
-
-| No. | Problem | Difficulty | Approach                   | Language |
-| --- | ------- | ---------- | -------------------------- | -------- |
-| 1   | Two Sum | Easy       | Brute Force (Nested Loops) | C++      |
-
 ## 🛠️ Technologies Used
 
 - **Language:** C++
